@@ -1,7 +1,7 @@
 # DADA2_bioinformatic_pipeline_phytoplankton_16S
 
 ### The bioinformatic script:
-DADA2_pipeline_phytoplankton_16S.Rmd
+DADA2_pipeline_phytoplankton_16S.Rmd  
 (DADA2_pipeline_phytoplankton_16S.nb.html) -> html format
 
 ### The 16S phytoplankton barcode library from Phytool_v2 adapted for taxonomic assignation with DADA2:
